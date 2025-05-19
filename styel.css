@@ -1,0 +1,32 @@
+.jumbotron{
+padding-top: 8rem;
+background-color:#c3dfff;}
+
+
+.background{
+    height: auto;
+    min-height: max-content;
+}
+
+#h{
+    height :;
+    width: ;
+}
+
+.paragraf {
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+/* Galery */
+#My\ Galeri {
+  background-color: #c3dfff; /* Warna abu-abu muda */
+  padding: 40px 0; /* Tambahkan padding atas dan bawah */
+}
